@@ -1,2 +1,0 @@
- This is an input the computer reads using fs sync or async. This is being added to the constant so we use the back ticks. The dollar sign with the braces runs js. Grave or backtick is used for multiple string concatonation or var use above.
-Created on 1606148835891 
